@@ -1,1 +1,1 @@
-https://tdaycode.github.io/frontend/projecDice/index.html
+https://tdaycode.github.io/frontend/projecDice/dice.html
