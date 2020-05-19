@@ -1,1 +1,1 @@
-https://tdaycode.github.io/frontend/projectTin/game.html
+https://tdaycode.github.io/frontend/projectTin/index.html
